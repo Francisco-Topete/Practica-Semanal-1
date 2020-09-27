@@ -1,0 +1,48 @@
+html
+{
+    background: url(https://28j4hc23gg8m166m6828ik29-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/AdobeStock_189224831-300x169.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#homeBanner
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: Segoe UI Light;
+    color: white;
+}
+
+#homeTitulo
+{
+    padding-top:14%;
+    margin-bottom:20px;
+    color: white;
+}
+
+#homeBoton
+{
+    color: teal;
+    border-style: solid;
+    border-color:white;
+    border-width:3px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Segoe UI;
+    text-decoration:none;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: 0.5s;
+}
+
+#homeBoton:hover
+{
+    color:white;
+    background-color:teal;
+    transition: 0.5s;
+}
